@@ -10,9 +10,11 @@ Project Description:<br>
 This project addresses two problems: 
 1) obtaining information about 3 types of obstacles and free paths in a maze from a shared URL, generating a maze based on the obtained information, randomly generating the starting and target points of a robot, and expecting the robot to solve the generated maze with only information about the neighboring edges of its current location in the maze. The shortest path should be visualized on the interface when the robot solves the maze.
 2) A random maze will be generated with the grid size obtained from the user. The starting and target points should be at two opposite corners. As in problem 1, the robot only knows the neighboring edges of its current location in the maze. The shortest path should be visualized on the interface when the robot solves the maze.
-<br>
+   <br>
+
 [For Project Details, Click Here.](https://github.com/betulbodurrr/Gezgin-Robot-Projesi/blob/main/Project_2.1.pdf)
 
+<br>
 
 <img align="center" src="https://www.svgrepo.com/show/237418/turkey.svg"  height="30" width="40" />Tr:</a><br>
 Programlama Laboratuvarı II dersimizin 1. projesi olan Gezgin Robot Projesidir.
